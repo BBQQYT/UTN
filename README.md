@@ -194,11 +194,14 @@ After running the `python main.py` script, you will be prompted to select an act
     *   The model will perform gender and age prediction for the specified image.
 
 ## Project Structure
+```
+    
 ├── main.py
 ├── UTKFace/
 ├── utkface_model.keras
 ├── utn.log
 └── README.md
+```
 
 ## Future Work and Improvements
 
