@@ -81,11 +81,11 @@
     *   Модель выполнит предсказание пола и возраста для указанного изображения.
 
 ## Структура проекта
-├── main.py # Основной скрипт
-├── UTKFace/ # Папка для изображений датасета UTKFace (нужно скачать отдельно).
-├── utkface_model.keras # Файл с сохраненной моделью (появляется после обучения).
-├── utn.log # Лог-файл работы скрипта.
-└── README.md # Этот файл.
+├── main.py
+├── UTKFace/
+├── utkface_model.keras
+├── utn.log
+└── README.md
 
 ## Направления дальнейших исследований и улучшений
 
@@ -194,11 +194,11 @@ After running the `python main.py` script, you will be prompted to select an act
     *   The model will perform gender and age prediction for the specified image.
 
 ## Project Structure
-├── main.py # Main script
-├── UTKFace/ # Folder for UTKFace dataset images (needs to be downloaded separately).
-├── utkface_model.keras # File with the saved model (appears after training).
-├── utn.log # Log file of the script's operation.
-└── README.md # This file.
+├── main.py
+├── UTKFace/
+├── utkface_model.keras
+├── utn.log
+└── README.md
 
 ## Future Work and Improvements
 
