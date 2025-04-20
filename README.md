@@ -81,11 +81,13 @@
     *   Модель выполнит предсказание пола и возраста для указанного изображения.
 
 ## Структура проекта
+```
 ├── main.py
 ├── UTKFace/
 ├── utkface_model.keras
 ├── utn.log
 └── README.md
+```
 
 ## Направления дальнейших исследований и улучшений
 
@@ -195,7 +197,6 @@ After running the `python main.py` script, you will be prompted to select an act
 
 ## Project Structure
 ```
-    
 ├── main.py
 ├── UTKFace/
 ├── utkface_model.keras
